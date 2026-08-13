@@ -17,3 +17,12 @@
 只放可商用素材。当前内容:Google Fonts OFL 字体 ×5(许可证见 fonts/google-ofl/OFL-LICENSE.txt)、
 Kenney CC0 音效精选(sfx/kenney/LICENSE-CC0.txt)、ffmpeg 合成音效(CC0,sfx/synth/LICENSE.txt)。
 新增素材请在对应目录附许可证说明,VideoAgents 的版权终审(11-qa/copyright)会核对。
+
+## 2026-08-13 扩充
+- fonts/smiley-sans/ 得意黑(OFL)——斜体窄黑,综艺冲击力;family: Smiley Sans
+- fonts/lxgw-wenkai/ 霞鹜文楷 Medium(OFL);family: LXGW WenKai
+- fonts/noto-cjk/ 思源黑体超黑(OFL)——超粗,关键词冲击;family: Noto Sans CJK SC
+- fonts/google-ofl/ 增 志莽行书(Zhi Mang Xing)、柳建毛草(Liu Jian Mao Cao)——狂放行草
+- sfx/cinema/ 影视级重击 ×4(braam/低频落锤/riser+hit/雷击,ffmpeg 合成 CC0)
+- sfx/kenney-war/ 刀剑/金属/重门/翻页/钱币 ×7(Kenney RPG,CC0)
+- sfx/kenney-scifi/ 爆炸/低频爆炸/金属重击 ×5(Kenney Sci-Fi,CC0)

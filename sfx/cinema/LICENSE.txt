@@ -1,0 +1,2 @@
+CC0-1.0
+本目录音效由 VideoAgents scripts 以 ffmpeg 滤镜合成(braam/落锤/riser/雷击),不含第三方素材,可自由商用。
