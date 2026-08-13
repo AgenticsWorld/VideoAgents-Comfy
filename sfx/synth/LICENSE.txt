@@ -1,0 +1,2 @@
+CC0-1.0
+本目录音效由 scripts/fetch_sfx.py 以 ffmpeg 滤镜合成,不含任何第三方素材,可自由商用。
