@@ -1,4 +1,4 @@
-# VideoAgents-Comfy 花字素材库 — VideoAgents 花字素材库(字体 + 音效)
+# VideoAgents-Comfy 素材库
 
 本仓库是 VideoAgents 花字系统的远端素材源,由 `render_captions.py assets-sync` 按需拉取。
 
